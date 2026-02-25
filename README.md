@@ -7,7 +7,7 @@ Immersive 3D Motion Art Experience using GSAP & Model Viewer
 ---
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+👉https://shahrishabh1513-jsk.github.io/Modern-3D-Motion-Art/
 
 ---
 
@@ -121,5 +121,6 @@ This project was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 

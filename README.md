@@ -45,22 +45,6 @@ Designed as a creative UI experiment and portfolio-level animation project.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
-
-## 🏷️ Tags
-
-<p>
-  <img src="https://img.shields.io/badge/html-orange?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-blue?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/gsap-green?logo=greensock"/>
-  <img src="https://img.shields.io/badge/model-viewer-black"/>
-  <img src="https://img.shields.io/badge/bootstrap-purple?logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/3D-animation-darkblue"/>
-  <img src="https://img.shields.io/badge/motion-design-red"/>
-  <img src="https://img.shields.io/badge/interactive-ui-lightgrey"/>
-  <img src="https://img.shields.io/badge/creative-coding-black"/>
-</p>
 
 ---
 
@@ -137,4 +121,5 @@ This project was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/fluency/200/3d-object.png" width="120"/>
-</p>
-
 <h1 align="center">🎨 Modern 3D Motion Art</h1>
 
 <p align="center">
@@ -125,14 +121,7 @@ This project was created to:
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots inside a `/screenshots` folder)
-
-Example:
-
-```
-![3D Motion Art](screenshots/home.png)
-```
+<img width="1875" height="886" alt="SS1_Day_32" src="https://github.com/user-attachments/assets/06542382-b3e7-48d4-9e31-188ddcd33a28" />
 
 ---
 
@@ -148,3 +137,4 @@ Example:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
